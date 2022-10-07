@@ -21,8 +21,7 @@ const Home = () => {
                     <br></br>
                     <br></br>
                     
-                    I am seeking for an orgranization where i can grow my skills
-                    and developed myself as a Software Developer.
+                    Looking forward to a career in an organization where I can use my diverse skills, knowledge, and efforts to add value to the organization. I am eager to contribute my creativity and hard work towards the success of the organization.
                     <br></br>
                     <br></br>
                     <span className='text-white font-bold text-left '>For Contact Me! </span> - Just hit the the contact section and there you go.
